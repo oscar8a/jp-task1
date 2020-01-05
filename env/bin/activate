@@ -37,7 +37,11 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD
 VIRTUAL_ENV="/Users/flatironschool/Documents/JPMorgan/JPMC-tech-task-1-py3/env"
+=======
+VIRTUAL_ENV="/Users/flatironschool/Documents/JPMorgan/JPMC-tech-task-1-PY3/env"
+>>>>>>> e928cde671a681321594a6aad98a511cdae30dee
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

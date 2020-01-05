@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #!/Users/flatironschool/Documents/JPMorgan/JPMC-tech-task-1-py3/env/bin/python3
+=======
+#!/Users/flatironschool/Documents/JPMorgan/JPMC-tech-task-1-PY3/env/bin/python3
+>>>>>>> e928cde671a681321594a6aad98a511cdae30dee
 # -*- coding: utf-8 -*-
 import re
 import sys

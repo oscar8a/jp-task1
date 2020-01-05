@@ -29,7 +29,11 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD
 set -gx VIRTUAL_ENV "/Users/flatironschool/Documents/JPMorgan/JPMC-tech-task-1-py3/env"
+=======
+set -gx VIRTUAL_ENV "/Users/flatironschool/Documents/JPMorgan/JPMC-tech-task-1-PY3/env"
+>>>>>>> e928cde671a681321594a6aad98a511cdae30dee
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
